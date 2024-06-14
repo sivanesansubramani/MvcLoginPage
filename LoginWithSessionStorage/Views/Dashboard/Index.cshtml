@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Http
+
+@{
+    var userName = Context.Session.GetString("UserName");
+    var password = Context.Session.GetString("Password");
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <h5 style="color:#fa05a8">Welcome, @userName!</h5>
+    <br />
+    <h5 style="color:#fa05a8">Your password is, @password!</h5>
+}
+else
+{
+    <h5 style="color:#fa05a8">User not found</h5>
+}
+
+<h3 style="color:#052efa"> Session Will Store untill User Logout User</h3>

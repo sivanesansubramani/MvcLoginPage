@@ -1,0 +1,7 @@
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\Leavemanagement.exe
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\Leavemanagement.deps.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\Leavemanagement.runtimeconfig.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Release\net6.0\PubTmp\Out\Leavemanagement.pdb

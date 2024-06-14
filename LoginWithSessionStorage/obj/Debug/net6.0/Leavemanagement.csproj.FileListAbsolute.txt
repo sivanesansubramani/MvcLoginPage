@@ -1,0 +1,150 @@
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\appsettings.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\Leavemanagement.staticwebassets.runtime.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\Leavemanagement.exe
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\Leavemanagement.deps.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\Leavemanagement.runtimeconfig.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\bin\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfoInputs.cache
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfo.cs
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cache
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cs
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.Leavemanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.build.Leavemanagement.props
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leavemanagement.props
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leavemanagement.props
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\scopedcss\bundle\Leavemanagement.styles.css
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\scopedcss\projectbundle\Leavemanagement.bundle.scp.css
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\refint\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\Leavemanagement.genruntimeconfig.cache
+C:\Users\ALTIUS\Desktop\Leave_Management\Leavemanagement\obj\Debug\net6.0\ref\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\appsettings.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.staticwebassets.runtime.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.exe
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.deps.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.runtimeconfig.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfoInputs.cache
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfo.cs
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cache
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cs
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.Leavemanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.build.Leavemanagement.props
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leavemanagement.props
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leavemanagement.props
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\scopedcss\bundle\Leavemanagement.styles.css
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\scopedcss\projectbundle\Leavemanagement.bundle.scp.css
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\refint\Leavemanagement.dll
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.genruntimeconfig.cache
+C:\Users\ALTIUS\Desktop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\ref\Leavemanagement.dll
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\appsettings.Development.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\appsettings.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.staticwebassets.runtime.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.exe
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.deps.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.runtimeconfig.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.dll
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\bin\Debug\net6.0\Leavemanagement.pdb
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfoInputs.cache
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfo.cs
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.csproj.CoreCompileInputs.cache
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cache
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cs
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.Leavemanagement.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.build.Leavemanagement.props
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leavemanagement.props
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leavemanagement.props
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets.build.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\staticwebassets.development.json
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\scopedcss\bundle\Leavemanagement.styles.css
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\scopedcss\projectbundle\Leavemanagement.bundle.scp.css
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.dll
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\refint\Leavemanagement.dll
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.pdb
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\Leavemanagement.genruntimeconfig.cache
+F:\Desttop\Leavemanagement_Dev\Leavemanagement\obj\Debug\net6.0\ref\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\appsettings.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\Leavemanagement.staticwebassets.runtime.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\Leavemanagement.exe
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\Leavemanagement.deps.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\Leavemanagement.runtimeconfig.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\bin\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfoInputs.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.AssemblyInfo.cs
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cs
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.Leavemanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.build.Leavemanagement.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leavemanagement.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leavemanagement.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\scopedcss\bundle\Leavemanagement.styles.css
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\scopedcss\projectbundle\Leavemanagement.bundle.scp.css
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\refint\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\Leavemanagement.genruntimeconfig.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\Leavemanagement\obj\Debug\net6.0\ref\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\appsettings.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\Leavemanagement.staticwebassets.runtime.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\Leavemanagement.exe
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\Leavemanagement.deps.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\Leavemanagement.runtimeconfig.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\bin\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.AssemblyInfoInputs.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.AssemblyInfo.cs
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.RazorAssemblyInfo.cs
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets\msbuild.Leavemanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets\msbuild.build.Leavemanagement.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Leavemanagement.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Leavemanagement.props
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\scopedcss\bundle\Leavemanagement.styles.css
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\scopedcss\projectbundle\Leavemanagement.bundle.scp.css
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\refint\Leavemanagement.dll
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.pdb
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\Leavemanagement.genruntimeconfig.cache
+C:\Users\ALTIUS\Downloads\login with session in mvc\LoginWithSessionStorage\obj\Debug\net6.0\ref\Leavemanagement.dll

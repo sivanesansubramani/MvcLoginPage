@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+@{
+    var userName = Context.Session.GetString("UserName");
+    var password = Context.Session.GetString("Password");
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <h5 style="color:#fa05a8">Welcome, @userName!</h5>
+    <br />
+    <h5 style="color:#fa05a8">Your password is, @password!</h5>
+}
+else
+{
+    <h5 style="color:#fa05a8">User not found</h5>
+}
+
+<h3 style="color:#052efa">
+    * A session is a period during which a user interacts with a web application.
+    The session starts when the user first requests a page and ends when the user leaves the 
+    site or after a specified timeout.</h3>
+
+<h3 style="color:#052efa">
+    * Session storage is used to store data that should be available throughout the user’s
+    session. This data is stored on the server side.</h3>
+
+<h3 style="color:#052efa">
+    * Each session is identified by a unique session ID, which is typically stored in a cookie
+    on the client side. This ID is sent with each request to the server to identify the session.</h3>

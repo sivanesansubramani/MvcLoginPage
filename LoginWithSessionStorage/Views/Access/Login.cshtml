@@ -1,0 +1,56 @@
+﻿@model Leavemanagement.Models.Loginmodel;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/login.css">
+</head>
+<body>
+    <div class="container">
+    <form asp-controller="Access" asp-action="Login" method="post">
+        <h1>Login</h1>
+
+
+        <li class="form-control">
+                <input type="text" asp-for="Email" required style="background-color:transparent;">
+            <label>Email</label>
+        </li>
+        <li class="form-control">
+                <input type="password" asp-for="PassWord" required style="background-color:transparent;">
+            <label>Password</label>
+        </li>
+
+            <button type="submit" class="btn" style="left: 20px;"> Login </button>
+
+
+        @if (ViewData["ValidateMessage"] != null)
+        {
+            <br />
+            <br />
+            <label>@ViewData["ValidateMessage"]</label>
+        }
+
+    </form>
+    <br />
+        <a href="#" id="forgot-password-link" style="text-decoration: none; color: blue;">Forgot Password?</a>
+
+    </div> <br />
+
+
+    <script src="/js/login.js"></script>
+    <script>
+        document.getElementById('forgot-password-link').addEventListener('click', function (event) {
+            event.preventDefault();
+            alert('Username : hello@gmail.com || Password is : 123');
+        });
+    </script>
+
+
+</body>
+</html>
